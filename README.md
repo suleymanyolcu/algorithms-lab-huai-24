@@ -82,7 +82,7 @@ The final assignment focuses on advanced graph algorithms and introduces the con
 
 ## License
 
-This repository is licensed under the .
+This repository is licensed under the GNU General Public License v3.0.
 
 ---
 
